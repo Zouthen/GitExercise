@@ -11,4 +11,5 @@ public class Exercise {
     void askAboutAge(){
         System.out.println("Enter age");
     }
+    void something(){}
 }
